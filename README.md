@@ -60,5 +60,5 @@ Open a terminal and execute the following commands:
 3. `./byfn.sh up -l node`: to start the network.
 
 The network components start spawning up after the above commands.
-No fuzz-library has been used here; rather, Math.random() fuzzes a variable, as can be seen in the this file, *chaincode/chaincode_example02/node/chaincode_example02.js*.
+No fuzz-library has been used here; rather, `Math.random()` fuzzes a variable, as can be seen in the this file, *chaincode/chaincode_example02/node/chaincode_example02.js*.
 
