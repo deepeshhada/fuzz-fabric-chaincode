@@ -40,7 +40,9 @@ Open a terminal and execute the following commands:
 The network components start spawning up after the above commands. 
 The Golang chaincode contains an import statement for the go-fuzz library. Hence, keep track of when the CLI is container starts.
 Once the CLI starts, open up another terminal, and execute:
+
 4. `docker exec -it cli bash`: opens up the cli container.
+
 5. `go get github.com/google/go-fuzz`
 
 The bug can now be seen in the terminal where the network was bootstrapping.
