@@ -14,7 +14,7 @@ You can also download the script and execute locally, using the **bootstrap.sh**
 
 ## Continuous Integration
 
-Please have a look at [Continuous Integration Process](docs/fabric-samples-ci.md)
+Please have a look at [Continuous Integration Process](docs/fabric-samples-ci.md).
 
 ## License <a name="license"></a>
 
